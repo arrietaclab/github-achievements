@@ -32,3 +32,5 @@ Los logros aparecen en la barra lateral del perfil. GitHub puede tardar desde un
 - Starstruck: 16, 128, 512 y 4096 estrellas.
 
 Primera contribución fusionada para Pull Shark y YOLO.
+
+Segunda contribución fusionada para el primer nivel de Pull Shark.
