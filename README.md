@@ -30,3 +30,5 @@ Los logros aparecen en la barra lateral del perfil. GitHub puede tardar desde un
 - Galaxy Brain: 2, 8, 16 y 32 respuestas aceptadas.
 - Pair Extraordinaire: 1, 10, 24 y 48 commits en coautoría fusionados.
 - Starstruck: 16, 128, 512 y 4096 estrellas.
+
+Primera contribución fusionada para Pull Shark y YOLO.
