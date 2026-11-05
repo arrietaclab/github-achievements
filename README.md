@@ -6,12 +6,12 @@ Los logros aparecen en la barra lateral del perfil. GitHub puede tardar desde un
 
 ## Qué se puede hacer desde esta cuenta
 
-| Logro | Cómo se obtiene | En este repo |
+| Logro | Cómo se obtiene | Hecho |
 | --- | --- | --- |
-| Quickdraw | Cerrar un issue o un pull request en los 5 minutos siguientes a abrirlo | Issue abierto y cerrado al momento |
-| YOLO | Fusionar un pull request sin revisión | Pull request fusionado sin review |
-| Pull Shark | Pull requests fusionados. El primer nivel pide 2 | Dos pull requests fusionados |
-| Galaxy Brain | Respuestas aceptadas en Discussions. El primer nivel pide 2 | Dos respuestas marcadas como aceptadas |
+| Quickdraw | Cerrar un issue o un pull request en los 5 minutos siguientes a abrirlo | [Issue #3](https://github.com/arrietaclab/github-achievements/issues/3), cerrado a los 7 segundos |
+| YOLO | Fusionar un pull request sin revisión | [Pull request #1](https://github.com/arrietaclab/github-achievements/pull/1), fusionado sin reviews |
+| Pull Shark | Pull requests fusionados. El primer nivel pide 2 | [#1](https://github.com/arrietaclab/github-achievements/pull/1) y [#2](https://github.com/arrietaclab/github-achievements/pull/2) |
+| Galaxy Brain | Respuestas aceptadas en Discussions. El primer nivel pide 2 | [Discusión #4](https://github.com/arrietaclab/github-achievements/discussions/4) y [discusión #5](https://github.com/arrietaclab/github-achievements/discussions/5) |
 
 ## Qué no se puede completar solo
 
