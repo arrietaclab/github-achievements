@@ -34,3 +34,5 @@ Los logros aparecen en la barra lateral del perfil. GitHub puede tardar desde un
 Primera contribución fusionada para Pull Shark y YOLO.
 
 Segunda contribución fusionada para el primer nivel de Pull Shark.
+
+Pair Extraordinaire: commit en coautoría con ParkerCantero.
