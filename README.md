@@ -10,8 +10,8 @@ Los logros aparecen en la barra lateral del perfil. GitHub puede tardar desde un
 | --- | --- | --- |
 | Quickdraw | Cerrar un issue o un pull request en los 5 minutos siguientes a abrirlo | [Issue #3](https://github.com/arrietaclab/github-achievements/issues/3), cerrado a los 7 segundos |
 | YOLO | Fusionar un pull request sin revisión | [Pull request #1](https://github.com/arrietaclab/github-achievements/pull/1), fusionado sin reviews |
-| Pull Shark | Pull requests fusionados. El primer nivel pide 2 | [#1](https://github.com/arrietaclab/github-achievements/pull/1) y [#2](https://github.com/arrietaclab/github-achievements/pull/2) |
-| Galaxy Brain | Respuestas aceptadas en Discussions. El primer nivel pide 2 | [Discusión #4](https://github.com/arrietaclab/github-achievements/discussions/4) y [discusión #5](https://github.com/arrietaclab/github-achievements/discussions/5) |
+| Pull Shark | Pull requests fusionados en la rama por defecto (`main`). El primer nivel pide 2 | [#9](https://github.com/arrietaclab/github-achievements/pull/9) y [#10](https://github.com/arrietaclab/github-achievements/pull/10), además de [#1](https://github.com/arrietaclab/github-achievements/pull/1) y [#2](https://github.com/arrietaclab/github-achievements/pull/2) |
+| Galaxy Brain | Respuestas aceptadas en Discussions. El primer nivel pide 2 | [Discusión #6](https://github.com/arrietaclab/github-achievements/discussions/6) y [discusión #7](https://github.com/arrietaclab/github-achievements/discussions/7) (preguntas de ParkerCantero) |
 
 ## Qué no se puede completar solo
 
@@ -23,6 +23,16 @@ Los logros aparecen en la barra lateral del perfil. GitHub puede tardar desde un
 | Arctic Code Vault Contributor | El archivo de febrero de 2020 ya está cerrado. |
 | Mars 2020 Helicopter Contributor | Solo contó el código usado en esa misión. |
 | Heart On Your Sleeve y Open Sourcerer | GitHub los dejó en pausa y hoy no se otorgan. |
+
+## Por qué Pull Shark puede tardar
+
+En la cuenta `arrietaclab` hay decenas de pull requests fusionados, pero la mayoría van a `develop`, no a la rama por defecto del repositorio (`main`). GitHub suele contar Pull Shark solo cuando el merge entra en la rama por defecto.
+
+Si sigue sin aparecer después de unas horas:
+
+1. En el perfil, arriba del calendario de contribuciones, abre **Contribution settings** y activa **Private contributions** (muchos merges válidos están en repos privados de `cachalotlab`).
+2. En **Settings → Public profile**, confirma que **Show achievements on my profile** está activado.
+3. Si pasan varios días, abre un ticket en [GitHub Support](https://support.github.com/) con enlaces a dos pull requests fusionados en `main`; a veces el contador del logro se queda atascado y solo ellos lo recalculan.
 
 ## Niveles siguientes
 
