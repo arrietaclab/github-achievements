@@ -36,3 +36,7 @@ Primera contribución fusionada para Pull Shark y YOLO.
 Segunda contribución fusionada para el primer nivel de Pull Shark.
 
 Pair Extraordinaire: commit en coautoría con ParkerCantero.
+
+## Pull Shark
+
+Pull requests fusionados en la rama por defecto main, no en develop.
